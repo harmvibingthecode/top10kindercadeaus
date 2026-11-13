@@ -1,0 +1,461 @@
+{
+ "lists": [
+  {
+   "slug": "0-2-jaar",
+   "age": "0 t/m 2 jaar",
+   "title": "Top 10 cadeaus voor baby's en peuters (0 t/m 2 jaar)",
+   "intro": "Voor de allerkleinsten werkt speelgoed het best als het simpel, stevig en op meerdere manieren te gebruiken is. In deze lijst staan drie winnaars van Speelgoed van het Jaar 2026 en zeven klassiekers die al jaren op verlanglijstjes staan.",
+   "items": [
+    {
+     "name": "LEGO DUPLO Stad 3-in-1 creatieve hellingen met voertuigen",
+     "brand": "LEGO",
+     "type": "Bouwen",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Baby & Peuter)",
+     "why": "Bouwen en daarna meteen laten rollen: hellingen en voertuigen in één set, met drie manieren om hem op te bouwen."
+    },
+    {
+     "name": "Fisher-Price 3-in-1 Kick & Sway Activity Gym",
+     "brand": "Fisher-Price",
+     "type": "Babygym",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Baby & Peuter)",
+     "why": "Een speelkleed met boog dat meegroeit, voor de eerste maanden op de rug en op de buik."
+    },
+    {
+     "name": "Gladi Tiles Dino Set",
+     "brand": "Gladi",
+     "type": "Magnetische tegels",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Baby & Peuter)",
+     "why": "Magnetische bouwtegels met dino's, door de vakjury gekozen in de categorie voor de jongste kinderen."
+    },
+    {
+     "name": "BIG Bobby Car Classic",
+     "brand": "BIG",
+     "type": "Loopauto",
+     "why": "De bekende rode loopauto. Gaat jaren mee en wordt vaak doorgegeven aan een broertje of zusje."
+    },
+    {
+     "name": "Fisher-Price stapelringen",
+     "brand": "Fisher-Price",
+     "type": "Stapelen",
+     "why": "Vijf gekleurde ringen op een wiebelvoet: pakken, stapelen en weer omgooien."
+    },
+    {
+     "name": "HABA Mijn eerste spellen: Boomgaard",
+     "brand": "HABA",
+     "type": "Eerste spelletje",
+     "why": "Een samenwerkingsspel met grote houten stukken, bedoeld als allereerste bordspel."
+    },
+    {
+     "name": "SmartMax My First Safari Animals",
+     "brand": "SmartMax",
+     "type": "Magnetisch bouwen",
+     "why": "Grote magnetische dierenhelften die je door elkaar kunt klikken tot gekke combinaties."
+    },
+    {
+     "name": "VTech Baby Walker loopwagen",
+     "brand": "VTech",
+     "type": "Loopwagen",
+     "why": "Steun bij de eerste stapjes, met een afneembaar activiteitenpaneel voor op de grond."
+    },
+    {
+     "name": "Hape hamerbank met xylofoon",
+     "brand": "Hape",
+     "type": "Hout en muziek",
+     "why": "Ballen door de bank slaan die over een xylofoon rollen; de xylofoon kan er ook los uit."
+    },
+    {
+     "name": "Little Dutch houten vormenstoof",
+     "brand": "Little Dutch",
+     "type": "Vormen",
+     "why": "Vormen zoeken en passen, in zachte kleuren en van hout."
+    }
+   ]
+  },
+  {
+   "slug": "3-5-jaar",
+   "age": "3 t/m 5 jaar",
+   "title": "Top 10 cadeaus voor kleuters (3 t/m 5 jaar)",
+   "intro": "Kleuters spelen na wat ze zien: bouwen, verzorgen, rijden en verkleden. Deze lijst combineert winnaars van Speelgoed van het Jaar 2026 met speelgoed dat zich al jaren bewijst.",
+   "items": [
+    {
+     "name": "CONNETIX 48 Piece Pastel Portal Pack",
+     "brand": "Connetix",
+     "type": "Magnetische tegels",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Bouw & Constructie)",
+     "why": "Doorzichtige magnetische tegels in pasteltinten, om plat en in de hoogte mee te bouwen."
+    },
+    {
+     "name": "PAW Patrol De Dinofilm Rocky's Megasaurus Voertuig",
+     "brand": "Spin Master",
+     "type": "Voertuig",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Voertuigen)",
+     "why": "Het voertuig van Rocky uit de nieuwe PAW Patrol-film, met opblaasbare dino."
+    },
+    {
+     "name": "BABY born Emma Click & Play 43 cm",
+     "brand": "Zapf Creation",
+     "type": "Pop",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Poppen & Knuffels)",
+     "why": "De bekende verzorgpop in een nieuwe uitvoering, door het publiek gekozen als favoriet bij de poppen."
+    },
+    {
+     "name": "Barbie Bubbelende Zeemeermin",
+     "brand": "Mattel",
+     "type": "Pop",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Poppen & Knuffels)",
+     "why": "Een zeemeermin-Barbie met bubbeleffect, een van de drie juryfavorieten bij de poppen."
+    },
+    {
+     "name": "LEGO DUPLO treinset",
+     "brand": "LEGO",
+     "type": "Bouwen",
+     "why": "Rails leggen, wagons bouwen en rijden. Past op alle andere DUPLO-stenen."
+    },
+    {
+     "name": "Puky loopfiets",
+     "brand": "Puky",
+     "type": "Buiten",
+     "why": "Leren sturen en balanceren zonder zijwieltjes, als opstap naar de eerste echte fiets."
+    },
+    {
+     "name": "HABA Dieren op elkaar",
+     "brand": "HABA",
+     "type": "Spelletje",
+     "why": "Houten dieren stapelen tot een wankele toren; kort, simpel en ook leuk voor ouders."
+    },
+    {
+     "name": "Play-Doh startset",
+     "brand": "Hasbro",
+     "type": "Kleien",
+     "why": "Potjes klei met vormpjes: rollen, drukken en knippen aan de keukentafel."
+    },
+    {
+     "name": "Ravensburger tiptoi Starterset",
+     "brand": "Ravensburger",
+     "type": "Leren",
+     "why": "Een pen die boeken laat praten: aanwijzen, luisteren en opdrachtjes doen."
+    },
+    {
+     "name": "Ravensburger memory",
+     "brand": "Ravensburger",
+     "type": "Spelletje",
+     "why": "Het klassieke geheugenspel, in veel thema's te krijgen. Kleuters winnen dit vaak van volwassenen."
+    }
+   ]
+  },
+  {
+   "slug": "6-8-jaar",
+   "age": "6 t/m 8 jaar",
+   "title": "Top 10 cadeaus voor kinderen van 6 t/m 8 jaar",
+   "intro": "Vanaf groep 3 komen spelregels, lezen en rekenen erbij. Dat zie je terug in deze lijst: veel spellen en doe-dingen, waaronder zes winnaars van Speelgoed van het Jaar 2026.",
+   "items": [
+    {
+     "name": "Bende in het Bos",
+     "brand": "MNKY Entertainment",
+     "type": "Kinderspel",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Kinderspellen tot 10 jaar)",
+     "why": "Door het publiek gekozen als favoriete kinderspel van 2026."
+    },
+    {
+     "name": "Math Masters",
+     "brand": "DutchGames",
+     "type": "Rekenspel",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Educatief)",
+     "why": "Sommen automatiseren in spelvorm; de publieksfavoriet in de categorie Educatief."
+    },
+    {
+     "name": "Kidydraw-pad",
+     "brand": "Nespart",
+     "type": "Tekenen",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Knutsel & Creatief)",
+     "why": "De publiekswinnaar voor wie graag tekent en knutselt."
+    },
+    {
+     "name": "Gui Gui Mega Slime Haul",
+     "brand": "Spectron Toys",
+     "type": "Slijm maken",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Knutsel & Creatief)",
+     "why": "Alles om zelf vijf glinsterende, geurende slijmpjes te maken."
+    },
+    {
+     "name": "Azul Kids",
+     "brand": "Asmodee",
+     "type": "Kinderspel",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Kinderspellen tot 10 jaar)",
+     "why": "De kinderversie van het bekende tegelspel Azul."
+    },
+    {
+     "name": "Tiptoe Dino",
+     "brand": "SmartGames",
+     "type": "Kinderspel",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Kinderspellen tot 10 jaar)",
+     "why": "Een van de drie juryfavorieten bij de kinderspellen, van de makers van de bekende denkpuzzels."
+    },
+    {
+     "name": "Regenwormen",
+     "brand": "999 Games",
+     "type": "Dobbelspel",
+     "why": "Dobbelen, gokken en wormen stelen van elkaar. Ongemerkt oefen je optellen."
+    },
+    {
+     "name": "Halli Galli",
+     "brand": "999 Games",
+     "type": "Reactiespel",
+     "why": "Kaarten omdraaien en als eerste op de bel slaan bij vijf dezelfde vruchten."
+    },
+    {
+     "name": "SmartGames IQ Puzzler Pro",
+     "brand": "SmartGames",
+     "type": "Denkpuzzel",
+     "why": "Een compacte puzzel met 120 opdrachten, van makkelijk tot pittig. Handig voor onderweg."
+    },
+    {
+     "name": "GraviTrax Starterset",
+     "brand": "Ravensburger",
+     "type": "Knikkerbaan",
+     "why": "Een knikkerbaan die je zelf ontwerpt met hoogtes, bochten en wissels, en later kunt uitbreiden."
+    }
+   ]
+  },
+  {
+   "slug": "9-12-jaar",
+   "age": "9 t/m 12 jaar",
+   "title": "Top 10 cadeaus voor kinderen van 9 t/m 12 jaar",
+   "intro": "Bovenbouwers willen uitdaging: spellen waarbij je moet nadenken, bouwsets die tijd kosten en techniek die echt iets doet. In deze lijst staan vijf winnaars van Speelgoed van het Jaar 2026.",
+   "items": [
+    {
+     "name": "Swapybara",
+     "brand": "999 Games",
+     "type": "Familiespel",
+     "award": "Publiekswinnaar Speelgoed van het Jaar 2026 (Familiespellen vanaf 10 jaar)",
+     "why": "Door het publiek gekozen als favoriete familiespel van 2026."
+    },
+    {
+     "name": "Toy Battle",
+     "brand": "Asmodee",
+     "type": "Familiespel",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Familiespellen vanaf 10 jaar)",
+     "why": "Een van de drie juryfavorieten bij de familiespellen vanaf 10 jaar."
+    },
+    {
+     "name": "dnup",
+     "brand": "Asmodee",
+     "type": "Familiespel",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Familiespellen vanaf 10 jaar)",
+     "why": "Ook door de vakjury gekozen bij de familiespellen vanaf 10 jaar."
+    },
+    {
+     "name": "Kidyelec-expert",
+     "brand": "Nespart",
+     "type": "Experimenteren",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Educatief)",
+     "why": "Zelf schakelingen bouwen en ontdekken hoe elektriciteit werkt."
+    },
+    {
+     "name": "Gear2Play Fly & Drive Drone Racer",
+     "brand": "Spectron Toys",
+     "type": "Drone",
+     "award": "Vakjurywinnaar Speelgoed van het Jaar 2026 (Voertuigen)",
+     "why": "Een voertuig dat kan rijden en vliegen, gekozen door de vakjury."
+    },
+    {
+     "name": "Catan",
+     "brand": "999 Games",
+     "type": "Bordspel",
+     "why": "Dorpen en steden bouwen en grondstoffen ruilen. Een spel waar ouders ook graag aan meedoen."
+    },
+    {
+     "name": "Ticket to Ride Europa",
+     "brand": "Days of Wonder",
+     "type": "Bordspel",
+     "why": "Treinroutes door Europa verzamelen. Snel uit te leggen en elke keer anders."
+    },
+    {
+     "name": "LEGO Technic",
+     "brand": "LEGO",
+     "type": "Bouwen",
+     "why": "Bouwsets met tandwielen, assen en bewegende delen, in veel prijsklassen."
+    },
+    {
+     "name": "Rubik's Cube 3x3",
+     "brand": "Rubik's",
+     "type": "Puzzel",
+     "why": "De bekende kubus. Met een uitlegfilmpje erbij lukt het de meeste kinderen binnen een paar dagen."
+    },
+    {
+     "name": "EXIT Het Spel",
+     "brand": "999 Games",
+     "type": "Escape-spel",
+     "why": "Een escaperoom in een doosje, om samen aan tafel op te lossen. Let op: je kunt elk spel één keer spelen."
+    }
+   ]
+  }
+ ],
+ "awards": {
+  "Baby & Peuter": [
+   [
+    "Fisher-Price 3 in 1 Kick & Sway Activity Gym",
+    "Mattel"
+   ],
+   [
+    "LEGO DUPLO Stad 3-in-1 creatieve hellingen met voertuigen",
+    "LEGO Group",
+    true
+   ],
+   [
+    "Gladi Tiles Dino Set",
+    "Gladi"
+   ]
+  ],
+  "Bouw & Constructie": [
+   [
+    "LEGO Ideas Tintin Maanraket",
+    "LEGO Group",
+    true
+   ],
+   [
+    "CONNETIX 48 Piece Pastel Portal Pack",
+    "Connetix"
+   ],
+   [
+    "LEGO Editions Cristiano Ronaldo Voetbalhoogtepunten",
+    "LEGO Group"
+   ]
+  ],
+  "Educatief": [
+   [
+    "Kidyelec-expert",
+    "Nespart"
+   ],
+   [
+    "Math Masters",
+    "DutchGames",
+    true
+   ],
+   [
+    "Ik leer: Het Menselijk Lichaam",
+    "Selecta Spel en Hobby"
+   ]
+  ],
+  "Elektronica": [
+   [
+    "Mini Brands Really Works Vinyl Playset",
+    "ZURU",
+    true
+   ],
+   [
+    "Peekimo",
+    "Spin Master"
+   ],
+   [
+    "Kidi Superstar Guitar",
+    "VTech"
+   ]
+  ],
+  "Knutsel & Creatief": [
+   [
+    "Kidydraw-pad",
+    "Nespart",
+    true
+   ],
+   [
+    "Slime Mart Shopping Basket",
+    "ZURU"
+   ],
+   [
+    "Gui Gui Mega Slime Haul",
+    "Spectron Toys"
+   ]
+  ],
+  "Poppen & Knuffels": [
+   [
+    "BABY born Emma Click & Play 43 cm",
+    "MGA Zapf Creation",
+    true
+   ],
+   [
+    "Luvibubs babypop",
+    "Spectron Toys"
+   ],
+   [
+    "Barbie Bubbelende Zeemeermin",
+    "Mattel"
+   ]
+  ],
+  "Speelfiguren, Actiefiguren & Speelsets": [
+   [
+    "XSHOT Insanity Dartstorm blaster",
+    "ZURU"
+   ],
+   [
+    "LEGO NINJAGO 15-jarig jubileum: Display met ninjapersonages",
+    "LEGO Group",
+    true
+   ],
+   [
+    "Pokémon Pikachu Puppetronic",
+    "WOW! Stuff"
+   ]
+  ],
+  "Voertuigen": [
+   [
+    "PAW Patrol De Dinofilm Rocky's Megasaurus Voertuig met Opblaasbare Dino",
+    "Spin Master"
+   ],
+   [
+    "Gear2Play Fly & Drive Drone Racer",
+    "Spectron Toys"
+   ],
+   [
+    "Mattel Brick Shop Hot Wheels Mercedes-Benz 300 SL",
+    "Mattel",
+    true
+   ]
+  ],
+  "Kinderspellen tot 10 jaar": [
+   [
+    "Bende in het Bos",
+    "MNKY Entertainment",
+    true
+   ],
+   [
+    "Azul Kids",
+    "Asmodee"
+   ],
+   [
+    "Tiptoe Dino",
+    "Smart Toys & Games"
+   ]
+  ],
+  "Familiespellen vanaf 10 jaar": [
+   [
+    "Toy Battle",
+    "Asmodee"
+   ],
+   [
+    "dnup",
+    "Asmodee"
+   ],
+   [
+    "Swapybara",
+    "999 Games",
+    true
+   ]
+  ],
+  "Kenner- en Strategiespellen": [
+   [
+    "Vogelvrij",
+    "999 Games",
+    true
+   ],
+   [
+    "Critter Kitchen",
+    "White Goblin Games"
+   ],
+   [
+    "Dewan",
+    "Asmodee"
+   ]
+  ]
+ }
+}
