@@ -10,7 +10,6 @@ DOMAIN = "top10kindercadeaus.nl"
 BASE = f"https://{DOMAIN}"
 SITE = "Top 10 Kindercadeaus"
 YEAR = 2026
-UPDATED = datetime.date.today().strftime("%d-%m-%Y")
 # Zet hier later het bol-partner-ID in; lege waarde = gewone links zonder commissie.
 BOL_PARTNER_ID = ""
 # Op False zetten na akkoord van de eigenaar (go-live); tot dan vragen we zoekmachines de site niet op te nemen.
@@ -19,6 +18,9 @@ OWNER = {"naam": "[BEDRIJFSNAAM INVULLEN]", "adres": "Nieuwe Wetering", "kvk": "
          "btw": "[BTW-ID, IN AANVRAAG]", "email": f"info@{DOMAIN}"}
 
 data = json.loads((ROOT / "data/lists.json").read_text(encoding="utf-8"))
+# Datum van de laatste inhoudelijke wijziging; pas "updated" in lists.json aan als de inhoud verandert.
+UPDATED_ISO = data["updated"]
+UPDATED = datetime.date.fromisoformat(UPDATED_ISO).strftime("%d-%m-%Y")
 e = html.escape
 
 def shop_link(name):
@@ -155,7 +157,7 @@ def build():
          f"""<h1>Contact</h1><p>Een fout gezien, een tip of een vraag? Mail naar <a href="mailto:{OWNER["email"]}">{OWNER["email"]}</a>.</p>
 <p>Vragen over een bestelling, levering of retour stel je aan de winkel waar je hebt gekocht. Wij verkopen zelf niets.</p>""")
 
-    today = datetime.date.today().isoformat()
+    today = UPDATED_ISO
     (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
         "".join(f"<url><loc>{BASE}{u}</loc><lastmod>{today}</lastmod></url>\n" for u in urls) + "</urlset>\n")
     (OUT / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n")

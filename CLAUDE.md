@@ -54,6 +54,8 @@ source change that produced it.
    domains without first updating the privacy page and adding consent.
 7. Rankings follow the criteria on the about page. If the criteria change, change that page too.
 8. Each list has exactly ten items.
+9. When content changes, set `updated` in `data/lists.json` to that day. Pages show it as
+   "Bijgewerkt op" and the sitemap uses it, so it must reflect a real content change, not a rebuild.
 
 ## Adding a page type
 
